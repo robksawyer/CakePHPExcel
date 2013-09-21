@@ -5,7 +5,7 @@ A plugin that makes exporting data to Excel (XLSX) spreadsheets easier than ever
 
 Note: This plugin is for CakePHP 2.x
 
-Usage:
+## Example Usage
 
 ### Config/Bootstrap.php
 
