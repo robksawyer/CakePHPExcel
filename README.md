@@ -7,6 +7,14 @@ Note: This plugin is for CakePHP 2.x
 
 ## Example Usage
 
+### Load the PHPExcel vendor library
+
+It's setup to work with Composer, so add the following to your composer.json file.
+
+```
+"PHPOffice/PHPExcel": "~1.7",
+```
+
 ### Config/Bootstrap.php
 
 Make sure your plugin CakePHPExcel is in the app/Plugin directory.
